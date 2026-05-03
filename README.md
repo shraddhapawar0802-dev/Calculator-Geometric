@@ -55,4 +55,7 @@ This application allows users to calculate Area, Perimeter, and Volume of differ
 - Add unit selection
 
 ## 📄 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License
+
+## 📸 Screenshot
+![Calculator](Calculator_Geometric.png)
