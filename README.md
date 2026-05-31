@@ -3,6 +3,10 @@
 A simple GUI-based Geometric Calculator built using Java Swing.  
 This application allows users to calculate Area, Perimeter, and Volume of different shapes through an interactive interface.
 
+---
+## Live Demo
+https://shraddhapawar0802-dev.github.io/Calculator-Geometric/
+
 ## 🚀 Features
 - Calculate Area of:
   - Square
